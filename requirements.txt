@@ -1,0 +1,21 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+joblib
+python-dotenv
+
+# RAG + Agents
+langchain
+langchain-community
+langchain-core
+langchain-openai
+openai
+
+# Vector DB
+chromadb
+
+# Document processing
+pypdf
+tiktoken
